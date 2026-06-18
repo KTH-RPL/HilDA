@@ -13,7 +13,7 @@
 **Thomas Gustafsson**<sup>3</sup> &nbsp;·&nbsp; **Patric Jensfelt**<sup>1</sup> &nbsp;·&nbsp; **Olov Andersson**<sup>1</sup>
 
 <sup>1</sup>KTH Royal Institute of Technology &nbsp; <sup>2</sup>Linköping University &nbsp; <sup>3</sup>TRATON AB / Scania<br>
-<sub><sup>*</sup>Equal contribution · Links above are placeholders pending release</sub>
+<sub><sup>*</sup>Equal contribution</sub>
 
 </div>
 
