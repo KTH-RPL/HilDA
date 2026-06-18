@@ -4,9 +4,7 @@
 
 <p>
   <a href="https://arxiv.org"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
-  <a href="https://arxiv.org"><img src="https://img.shields.io/badge/PDF-Paper-ee3333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-  <a href="https://nerfies.github.io"><img src="https://img.shields.io/badge/Project-Page-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Project Page"></a>
+  <a href="https://maxiuw.github.io/hilda"><img src="https://img.shields.io/badge/Project-Page-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Project Page"></a>
 </p>
 
 <img src="https://img.shields.io/badge/ECCV-2026-2c8c4a?style=flat-square" alt="ECCV 2026">
