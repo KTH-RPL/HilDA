@@ -82,14 +82,6 @@ HilDA sets a new state of the art on camera–LiDAR cross-modal distillation and
   <br><sub>Ground truth mislabels a light pole and signs as "vegetation"; HilDA correctly predicts "manmade".</sub>
 </div>
 
-## Project Page
-
-The full interactive page lives in this folder. To preview locally:
-
-```bash
-python3 -m http.server 8000
-# open http://localhost:8000
-```
 
 To publish via **GitHub Pages**, push this folder to a repository and enable Pages on the branch root.
 
