@@ -3,7 +3,7 @@
 # HilDA: Hierarchical Distillation with Diffusion<br>for Advancing Self-Supervised LiDAR Pre-training
 
 <p>
-  <a href="https://arxiv.org"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2606.20189"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://maxiuw.github.io/hilda"><img src="https://img.shields.io/badge/Project-Page-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Project Page"></a>
 </p>
 
